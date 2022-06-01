@@ -1,4 +1,4 @@
-# udemy1
+# QuizApp
 
 A new Flutter project.
 
